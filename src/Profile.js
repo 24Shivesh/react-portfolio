@@ -5,7 +5,8 @@ import instaIcon from "./assets/insta.png";
 
 const Profile = () => {
   const handleCVDownload = () => {
-    window.open("/assets/202150101094_shivesh_borse.pdf","_blank");
+    window.open("/react-portfolio/assets/202150101094_shivesh_borse.pdf", "_blank");
+
   };
 
   const handleContactScroll = () => {
