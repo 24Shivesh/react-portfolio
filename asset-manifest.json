@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.13dc0dbc.css",
-    "main.js": "/react-portfolio/static/js/main.9d020ed5.js",
+    "main.js": "/react-portfolio/static/js/main.54cefae5.js",
     "static/js/488.21a3b654.chunk.js": "/react-portfolio/static/js/488.21a3b654.chunk.js",
     "static/media/Placement Cell.png": "/react-portfolio/static/media/Placement Cell.edf6abc26ede549def60.png",
     "static/media/Portfolio.png": "/react-portfolio/static/media/Portfolio.418eb6cb687e72b8ab34.png",
@@ -20,11 +20,11 @@
     "static/media/dashboard.png": "/react-portfolio/static/media/dashboard.b183ab6019da3c78c0d1.png",
     "index.html": "/react-portfolio/index.html",
     "main.13dc0dbc.css.map": "/react-portfolio/static/css/main.13dc0dbc.css.map",
-    "main.9d020ed5.js.map": "/react-portfolio/static/js/main.9d020ed5.js.map",
+    "main.54cefae5.js.map": "/react-portfolio/static/js/main.54cefae5.js.map",
     "488.21a3b654.chunk.js.map": "/react-portfolio/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13dc0dbc.css",
-    "static/js/main.9d020ed5.js"
+    "static/js/main.54cefae5.js"
   ]
 }
