@@ -2,10 +2,11 @@ import React from "react";
 import githubIcon from "./assets/github.png";
 import linkedinIcon from "./assets/linkedin.png";
 import instaIcon from "./assets/insta.png";
+import CV from "./assets/202150101094_shivesh_borse.pdf";
 
 const Profile = () => {
   const handleCVDownload = () => {
-    window.open("/react-portfolio/assets/202150101094_shivesh_borse.pdf", "_blank");
+    window.open(CV, "_blank");
 
   };
 
